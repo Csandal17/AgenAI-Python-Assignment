@@ -1,6 +1,7 @@
 # AgenAI-Python-Assignment
 
-Description: Python assignments completed as part of the Codecademy Agentic AI Applications Bootcamp (March–June 2026), covering data analysis, visualisation, and machine learning fundamentals.
+Description: Python assignments completed as part of the Codecademy Agentic AI Applications Bootcamp (March–June 2026), 
+covering data analysis, visualisation, and machine learning fundamentals.
 
 Assignments completed:
 Assignment 1: Python & Dictionaries (Netflix dataset)
